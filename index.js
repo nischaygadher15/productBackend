@@ -15,6 +15,9 @@ app.use(morgan("dev"));
 //routes
 app.use("/user", userRoute);
 app.use("/product", productRouter);
+app.get("/", (req, res) => {
+  res.send("<h1>Hello World, this is my first Node + Express App.</h1>");
+});
 
 //listening server
 app.listen(port, () => console.log(`server started on port:${port}...`));
