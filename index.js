@@ -19,5 +19,17 @@ app.get("/", (req, res) => {
   res.send("<h1>Hello World, this is my first Node + Express App.</h1>");
 });
 
+//Error handling
+app.all("*", (req, res) => {
+  res.send("<h2>404 Page not found</h2>");
+});
+
+app.use((err, req, res, next) => {
+  res.status(err.statusCode).json({
+    statusCode: err.statusCode,
+    message: err.message,
+  });
+});
+
 //listening server
 app.listen(port, () => console.log(`server started on port:${port}...`));
