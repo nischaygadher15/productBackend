@@ -1,0 +1,142 @@
+[
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Logan",
+      "last": "Clark"
+    },
+    "email": "logan.clark@example.com",
+    "dob": {
+      "date": "1945-07-19T08:02:45.819Z",
+      "age": 79
+    },
+    "phone": "Y24 K15-0815",
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/57.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/57.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/57.jpg"
+    },
+    "nat": "CA"
+  },
+  {
+    "gender": "female",
+    "name": {
+      "title": "Miss",
+      "first": "Milla",
+      "last": "Ruona"
+    },
+    "email": "milla.ruona@example.com",
+    "dob": {
+      "date": "1948-06-30T09:08:42.972Z",
+      "age": 76
+    },
+    "phone": "04-720-307",
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/women/96.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/women/96.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/women/96.jpg"
+    },
+    "nat": "FI"
+  },
+  {
+    "gender": "female",
+    "name": {
+      "title": "Mrs",
+      "first": "Astrid",
+      "last": "Jensen"
+    },
+    "email": "astrid.jensen@example.com",
+    "dob": {
+      "date": "1951-12-29T21:18:30.939Z",
+      "age": 72
+    },
+    "phone": "67264288",
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/women/58.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/women/58.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/women/58.jpg"
+    },
+    "nat": "DK"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Arthur",
+      "last": "Philippe"
+    },
+    "email": "arthur.philippe@example.com",
+    "dob": {
+      "date": "1977-11-02T08:48:16.838Z",
+      "age": 46
+    },
+    "phone": "01-43-98-54-81",
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/35.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/35.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/35.jpg"
+    },
+    "nat": "FR"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Ertan",
+      "last": "Ploeg"
+    },
+    "email": "ertan.ploeg@example.com",
+    "dob": {
+      "date": "1996-08-29T00:55:13.568Z",
+      "age": 28
+    },
+    "phone": "(073) 5616635",
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/12.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/12.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/12.jpg"
+    },
+    "nat": "NL"
+  },
+  {
+    "gender": "female",
+    "name": {
+      "title": "Mrs",
+      "first": "Anica",
+      "last": "Nađ"
+    },
+    "email": "anica.nad@example.com",
+    "dob": {
+      "date": "1984-11-04T15:27:37.588Z",
+      "age": 39
+    },
+    "phone": "011-1676-229",
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/women/29.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/women/29.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/women/29.jpg"
+    },
+    "nat": "RS"
+  },
+  {
+    "gender": "female",
+    "name": {
+      "title": "Miss",
+      "first": "Lammechien",
+      "last": "Van Schoonhoven"
+    },
+    "email": "lammechien.vanschoonhoven@example.com",
+    "dob": {
+      "date": "1956-10-26T06:27:30.034Z",
+      "age": 67
+    },
+    "phone": "(0410) 689586",
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/women/59.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/women/59.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/women/59.jpg"
+    },
+    "nat": "NL"
+  }
+]
